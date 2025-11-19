@@ -1,102 +1,106 @@
-EMPOWER360 HR Analysis Dashboard
+MPOWER360 HR Analysis Dashboard
 
- Overview
 
-An interactive Power BI dashboard designed to analyze employee demographics, workforce status, performance metrics, and compensation patterns across EMPOWER360’s staff.
-The project showcases HR trends such as active vs. terminated employees, departmental distribution, salaries, overtime, and training.
 
-Data Size: 200 employees (Active + Terminated)
 
- Tools
 
-Power BI Desktop, Power Query, DAX, Data Modeling
 
- Project Highlights
 
-Analyzed a workforce of 200 employees across multiple departments and locations.
 
-Clear breakdown of Active (157) vs. Terminated (43) employees.
+📝 Overview
 
-Evaluated historical hiring and termination patterns across several years.
+The EMPOWER360 HR Analysis Dashboard provides a comprehensive view of the organization’s workforce. It highlights employee distribution, hiring/termination patterns, performance indicators, and compensation trends.
+The dashboard is designed to support HR teams and management in making informed decisions related to workforce planning and retention.
 
-Compared performance metrics (overtime, sick days, performance ratings, training hours) between Active and Terminated employees.
+🛠️ Tools & Technologies
+Tool / Technology	Usage
+Power BI Desktop	Dashboard design & visualization
+Power Query	Data cleaning & preparation
+DAX	Custom measures & KPIs
+Data Modeling	Relationships & optimized schema
+✨ Project Highlights
+📌 Workforce Structure
 
-Conducted a salary deep-dive covering Gross, Net, Base Salary, and Deductions.
+Total workforce analyzed: 200 employees
 
-Dashboard Features
+157 Active vs 43 Terminated
 
-Visualizations include:
+Geographic coverage includes Alexandria, Giza, Cairo
 
-Workforce Overview
+Full department-level segmentation (Finance, IT, HR, Sales, Marketing)
 
-Total employees
+📈 Hiring & Termination Trends
 
-Active vs. Terminated breakdown
+Year-over-year trends for both new hires and terminations
 
-Employee distribution across cities (Alexandria, Giza, Cairo)
+Identification of high-turnover departments
 
-Trends & Department Breakdown
+Insight into patterns associated with organizational changes
 
-Hiring and termination trends by year
+💼 Performance & Productivity Metrics
 
-Department-level status comparison (Finance, HR, IT, Marketing, Sales)
+Comparison between Active and Terminated employees across key metrics:
 
-Performance & Compensation Analysis
+Overtime Hours
 
-Average overtime hours
+Training Hours
 
-Average training hours
+Performance Ratings
 
-Performance ratings
+Sick Days
 
-Sick days
+These insights help identify behavioral patterns linked to employee retention.
 
-Salary metrics (Gross, Net, Base, Deductions) for both Active and Terminated employees
+💰 Compensation Analysis
 
- Key Insights
-1. Performance Differences
+In-depth salary distribution analysis including:
 
-Terminated employees showed:
+Gross Salary
 
-Slightly higher overtime hours
+Net Salary
 
-Slightly higher sick days
-These trends may indicate workload strain or disengagement.
+Base Salary
 
-2. Salary Variations
+Deductions
 
-Terminated employees had higher average salaries than active employees, suggesting:
+The comparison highlights compensation factors that may relate to turnover.
 
-Potential loss of experienced or senior employees
+🔍 Key Insights
+1. Turnover Drivers
 
-Higher financial impact of turnover
+Terminated employees show slightly higher averages in overtime and sick leave — indicators that may point to workload challenges or disengagement.
 
-3. Workforce Composition
+2. Compensation Differences
 
-78.5% of the workforce remains active, showing relatively stable retention
-—but department-level differences highlight areas needing attention.
+Higher average salaries among terminated employees suggest the loss of experienced staff, leading to increased replacement cost.
 
- Strategic Recommendations
+3. Retention Overview
 
-Analyze Termination Drivers: Higher salary and higher overtime among terminated staff may indicate burnout or dissatisfaction.
+Overall retention is strong (78% active), but specific departments show higher turnover and may require attention.
 
-Improve Retention in Key Departments: Department-level analysis reveals where turnover is concentrated.
+💡 Recommendations
 
-Monitor Workload: Link overtime and sick days to performance to prevent future attrition.
+Monitor workload indicators to prevent burnout and reduce turnover risk.
 
-Optimize Salary & Talent Distribution: Address pay-to-performance imbalances to maintain fairness and morale.
+Enhance retention programs in departments with recurring termination patterns.
 
-Skills Applied
+Review salary structure to ensure fairness and reduce the loss of high-performing employees.
 
-Power BI Data Modeling
+Use performance signals (overtime, sick days, ratings) to flag at-risk employees early.
 
-DAX measures for dynamic performance & salary KPIs
+🧠 Skills Demonstrated
 
-Data Cleaning and Standardization
+Power BI Data Visualization
 
-HR Analytics & Insight Development
+DAX for developing dynamic KPIs
 
-Interactive Dashboard Design
+HR Analytics & workforce insights
+
+Data cleaning, shaping, and modeling
+
+Building interactive analytic dashboards
+
+📷 Dashboard Preview
 <img width="955" height="541" alt="Screenshot 2025-11-18 205317" src="https://github.com/user-attachments/assets/35391c69-697b-45ee-96af-a5d7f77dfaa7" />
 
 <img width="949" height="532" alt="Screenshot 2025-11-18 205333" src="https://github.com/user-attachments/assets/4668a8a1-f6cb-4d5e-bf5f-fc211b979cd4" />
