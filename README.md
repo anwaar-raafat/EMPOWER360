@@ -97,3 +97,15 @@ Data Cleaning and Standardization
 HR Analytics & Insight Development
 
 Interactive Dashboard Design
+<img width="955" height="541" alt="Screenshot 2025-11-18 205317" src="https://github.com/user-attachments/assets/35391c69-697b-45ee-96af-a5d7f77dfaa7" />
+
+<img width="949" height="532" alt="Screenshot 2025-11-18 205333" src="https://github.com/user-attachments/assets/4668a8a1-f6cb-4d5e-bf5f-fc211b979cd4" />
+
+<img width="947" height="533" alt="Screenshot 2025-11-18 205348" src="https://github.com/user-attachments/assets/f1c025e3-929f-4b82-af77-9428a9a24d3f" />
+
+<img width="956" height="531" alt="Screenshot 2025-11-18 205357" src="https://github.com/user-attachments/assets/0280ca5f-37ea-4a3e-8b3e-3b25c7c198ee" />
+
+
+
+
+
