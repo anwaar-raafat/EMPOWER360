@@ -94,6 +94,20 @@ Overall retention sits at **78%**, but certain departments show noticeably highe
 - Data modeling and relationship management  
 
 ---
+🚀 How to Use
+
+Download PowerBI_Report.pbix
+
+Open the file in Power BI Desktop
+
+Explore the dashboard using filters, slicers, and charts
+
+📬 Contact
+
+Your Name
+📧 Email:rafatanwaar@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/anwaar-raafat-590451204/
 
 ## 📷 Dashboard Preview  
 
