@@ -117,7 +117,7 @@ Anwaar Raafat
 <img width="949" height="532" alt="Screenshot 2025-11-18 205333" src="https://github.com/user-attachments/assets/4668a8a1-f6cb-4d5e-bf5f-fc211b979cd4" />
 
 <img width="947" height="533" alt="Screenshot 2025-11-18 205348" src="https://github.com/user-attachments/assets/f1c025e3-929f-4b82-af77-9428a9a24d3f" />
-<img width="792" height="448" alt="image" src="https://github.com/user-attachments/assets/cbb1c215-f5f0-4137-9f63-a45240bda6b4" />
+<img width="947" height="533" alt="image" src="https://github.com/user-attachments/assets/cbb1c215-f5f0-4137-9f63-a45240bda6b4" />
 
 
 
